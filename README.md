@@ -33,8 +33,6 @@ A Python-based project that greets users based on the time of day.
 ### [4. TO-DO-LIST_APP](https://github.com/sunnymishra565/To-do-list.git)
 A task management app built with Tkinter, where users can track their to-do lists.
 
-### 5.[Class_work & Assignment](https://github.com/Atul11190/B1_Python)
-
 
 ---
 
