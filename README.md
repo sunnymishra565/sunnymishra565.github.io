@@ -21,7 +21,7 @@ Hello! I'm **Sunny Kumar**, a passionate college student learning **Python**. I'
 
 ## Projects
 
-### [1. Calc_Project](https://github.com/sunnymishra565/calculator.git)
+### [1. Calculatot](https://github.com/sunnymishra565/calculator.git)
 A Python project that integrates a GUI calculator with a personal diary app, built using Tkinter.
 
 ### [2. csv-to-excel-converter](https://github.com/sunnymishra565/csv-to-excel-converter.git)
